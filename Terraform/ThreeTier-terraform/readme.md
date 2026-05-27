@@ -1,0 +1,1 @@
+This is a readme for 3 tier architecture provisioning using terraform
